@@ -1,0 +1,54 @@
+{
+    "frontend": {
+      "modules": [
+        {
+          "id": 1,
+          "name": "HTML",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyVF1hUgKCmmi8L8WF2IR_ZRpBaua5PAkVH6LUDQRHZ_s5CXEruDhzsFh1Jk42poLiczE&usqp=CAU",
+          "description": "HTML (HyperText Markup Language) ওয়েব পৃষ্ঠার গঠন তৈরির একটি স্ট্যান্ডার্ড ল্যাঙ্গুয়েজ। এটি হেডার, প্যারাগ্রাফ, লিস্ট, টেবিল, লিঙ্ক, ছবি এবং ফর্ম তৈরি করতে ব্যবহৃত হয়। HTML এর ট্যাগ এবং অ্যাট্রিবিউটের মাধ্যমে আপনি কন্টেন্টকে কাঠামোবদ্ধ এবং উপস্থাপন করতে পারেন। এটি ওয়েব ডেভেলপমেন্টের মৌলিক স্তম্ভ।"
+        },
+        {
+          "id": 2,
+          "name": "CSS",
+          "img": "https://files.codingninjas.in/article_images/custom-upload-1685597889-c2eef8bb.webp",
+          "description": "CSS (Cascading Style Sheets) একটি ডিজাইন ল্যাঙ্গুয়েজ যা HTML উপাদানগুলোর স্টাইল এবং লেআউট সেট করতে ব্যবহৃত হয়। CSS আপনাকে রং, ফন্ট, মার্জিন, প্যাডিং, লাইন-হাইট এবং অন্যান্য ভিজ্যুয়াল স্টাইল নির্ধারণ করতে দেয়। এটি রেসপন্সিভ ডিজাইন তৈরি করতে মিডিয়া কুয়েরি এবং ফ্লেক্সবক্স, গ্রিডের মতো টুল ব্যবহার করে।"
+        },
+        {
+          "id": 3,
+          "name": "Bootstrap",
+          "img": "https://dkrn4sk0rn31v.cloudfront.net/uploads/2022/04/Formas_de_se_trabalhar_com_o_Bootstrap_5-400x280.jpg",
+          "description": "Bootstrap একটি জনপ্রিয় CSS ফ্রেমওয়ার্ক যা রেসপন্সিভ এবং মোবাইল-ফার্স্ট ওয়েবসাইট তৈরিতে ব্যবহৃত হয়। এটি বিল্ট-ইন কম্পোনেন্ট যেমন কার্ড, মডাল, ন্যাভবার, ট্যাব এবং ফর্ম সরবরাহ করে। Bootstrap এর মাধ্যমে আপনি দ্রুত এবং কার্যকরভাবে প্রফেশনাল লেআউট তৈরি করতে পারেন।"
+        },
+        {
+          "id": 4,
+          "name": "jQuery",
+          "img": "https://cdn-images-1.medium.com/v2/resize:fit:853/1*n91gtzcA2K_30axvN4qEmQ.gif",
+          "description": "jQuery একটি দ্রুত, ছোট এবং বহুমুখী জাভাস্ক্রিপ্ট লাইব্রেরি যা HTML ডকুমেন্ট ট্র্যাভার্সাল, ইভেন্ট হ্যান্ডলিং, অ্যানিমেশন এবং Ajax কার্যক্রম সহজ করতে ব্যবহৃত হয়। এটি জাভাস্ক্রিপ্ট কোডিংকে সহজ করে এবং ক্রস-ব্রাউজার সমর্থন প্রদান করে।"
+        }
+      ]
+    },
+    "backend": {
+      "modules": [
+        {
+          "id": 5,
+          "name": "PHP",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHlPkLdHF-LJ08c403-yh34gQOA8TFNokFyw&s",
+          "description": "PHP (Hypertext Preprocessor) একটি ওপেন সোর্স সার্ভার-সাইড স্ক্রিপ্টিং ল্যাঙ্গুয়েজ যা ডায়নামিক এবং ইন্টারেক্টিভ ওয়েব অ্যাপ্লিকেশন তৈরি করতে ব্যবহৃত হয়। এটি ডাটাবেসের সাথে সহজে ইন্টিগ্রেট হয় এবং ব্যবহারকারী ইনপুট হ্যান্ডেল করতে পারে।"
+        },
+        {
+          "id": 6,
+          "name": "OOP",
+          "img": "https://i.pinimg.com/originals/d4/30/d3/d430d3a4fb655ed62d6ea44004b71a2f.gif",
+          "description": "Object-Oriented Programming (OOP) একটি প্রোগ্রামিং প্যারাডাইম যেখানে কোডকে অবজেক্ট আকারে সাজানো হয়। এতে ইনহেরিটেন্স, পলিমরফিজম, এবং ইনক্যাপসুলেশন বৈশিষ্ট্যের মাধ্যমে পুনরায় ব্যবহারযোগ্য এবং মডুলার কোড তৈরি করা যায়।"
+        },
+        {
+          "id": 7,
+          "name": "MySQL",
+          "img": "https://miro.medium.com/v2/resize:fit:1400/1*kcCwR0tgMWylgAa2aP1Hrw.gif",
+          "description": "MySQL একটি রিলেশনাল ডাটাবেস ম্যানেজমেন্ট সিস্টেম যা দ্রুত এবং কার্যকরভাবে ডেটা সংরক্ষণ এবং পরিচালনা করতে ব্যবহৃত হয়। এটি ওয়েব অ্যাপ্লিকেশনগুলোর জন্য একটি সাধারণ ডাটাবেস সমাধান।"
+        }
+      ]
+    }
+    
+  }
+  

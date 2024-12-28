@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.hedding{
+    @apply text-lg md:text-2xl font-serif my-3 font-semibold text-green-600
+}
+li{
+    list-style: none;
+}
+hr{
+    background: #00000039;
+    height: 2px;
+    margin: 10px 0px;
+}
+  /* Custom class to remove spinner */
+  .no-spinner::-webkit-inner-spin-button,
+  .no-spinner::-webkit-outer-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+  }
+
+  .no-spinner {
+      -moz-appearance: textfield; /* Firefox */
+  }
